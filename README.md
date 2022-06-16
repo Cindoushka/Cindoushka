@@ -4,7 +4,7 @@
 
 👧🏼 I've just started learning code 1 month ago 
 
-📱 Currently working only on xCode. 
+📱 Currently working only on Xcode. 
 
 🫶🏼 Here to Share, Learn & (get) Help
 
