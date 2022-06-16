@@ -1,7 +1,11 @@
-## 👋🏼 Hi ! I'm Cindie, from Lille 
+## 👋🏼 Hi ! I'm Cindie, from Lille 📍
+
+
 
 👧🏼 I've just started learning code 1 month ago 
+
 📱 Currently working only on xCode. 
+
 🫶🏼 Here to Share, Learn & (get) Help
 
 <!--
