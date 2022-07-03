@@ -2,7 +2,7 @@
 
 
 
-👧🏼 I've just started learning code 1 month ago 
+👧🏼 I've just started learning code 2 months ago 
 
 📱 Currently working only on Xcode. 
 
