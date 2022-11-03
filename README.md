@@ -2,9 +2,9 @@
 
 
 
-👧🏼 I've just started learning code 2 months ago 
+👧🏼 Currently learning HTML, CSS and JS.
 
-📱 Currently working only on Xcode. 
+📱  I've been working on Xcode for months.
 
 🫶🏼 Here to Share, Learn & (get) Help
 
