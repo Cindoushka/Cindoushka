@@ -1,10 +1,9 @@
-## 👋🏼 Hi ! I'm Cindie, from Lille 📍
+<h1 align="center">Hi 👋, I'm Cindie</h1>
+<h3 align="center">A new developer from Lille, France</h3>
 
+👧🏼 Currently learning **HTML, CSS and JS**.
 
-
-👧🏼 Currently learning HTML, CSS and JS.
-
-📱  I've been working on Xcode for few months.
+📱  I've been working on **Xcode** for few months.
 
 💻 Here to Share, Learn & (get) Help
 
