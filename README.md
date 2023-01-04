@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cindie</h1>
-<h3 align="center">A new developper from Lille, France</h3>
+<h3 align="center">A new developer from Lille, France</h3>
 
 👧🏼 Currently learning **HTML, CSS and JS**.
 
