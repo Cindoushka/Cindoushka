@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cindie</h1>
-<h3 align="center">A new developer from Lille, France</h3>
+<h3 align="center">iOS Developer from Lille, France</h3>
 
-👧🏼 Currently learning **HTML, CSS and JS**.
+👧🏼 I've been learning **Swift & SwiftUI but also HTML, CSS and JS**.
 
-📱  I've been working on **Xcode** for few months.
+📱  Workin' currently on **Xcode**.
 
 💻 Here to Share, Learn & get inspiration
 
