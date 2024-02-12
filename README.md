@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Cindie</h1>
-<h3 align="center">iOS Developer from Lille, France</h3>
+<h2  align="center>I'm a french developer in swift/swiftUI and JavaScript</h2>
+<h3 align="center">I'm an Apple Foundation Program  trainer </h3>
+<h4  align="center>and I work for Simplon in Lyon & Lille 🇫🇷 </h4>
 
-👧🏼 I've been learning **Swift & SwiftUI but also HTML, CSS and JS**.
+👧🏼 So, I usually play on **Swift & SwiftUI but also HTML, CSS and JS**.
 
-📱  Workin' currently on **Xcode**.
-
-💻 Here to Share, Learn & get inspiration
+💻 Here to Share my little projects, training exercices and other stuffs.
 
 
 <h3 align="center">Connect with me:</h3>
