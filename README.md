@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cindie</h1>
-<h2  align="center>I'm a french developer in swift/swiftUI and JavaScript</h2>
+<h2  align="center">I'm a french developer in swift/swiftUI and JavaScript</h2>
 <h3 align="center">I'm an Apple Foundation Program  trainer </h3>
-<h4  align="center>and I work for Simplon in Lyon & Lille 🇫🇷 </h4>
+<h4  align="center">and I work for Simplon in Lyon & Lille 🇫🇷 </h4>
 
 👧🏼 So, I usually play on **Swift & SwiftUI but also HTML, CSS and JS**.
 
